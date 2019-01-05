@@ -1,0 +1,18 @@
+C:\Users\user\ksanyi\ie\aukcio_kliens\aukcio_kliens\bin\Debug\aukcio_kliens.exe.config
+C:\Users\user\ksanyi\ie\aukcio_kliens\aukcio_kliens\bin\Debug\aukcio_kliens.exe
+C:\Users\user\ksanyi\ie\aukcio_kliens\aukcio_kliens\bin\Debug\aukcio_kliens.pdb
+C:\Users\user\ksanyi\ie\aukcio_kliens\aukcio_kliens\obj\Debug\aukcio_kliens.csprojResolveAssemblyReference.cache
+C:\Users\user\ksanyi\ie\aukcio_kliens\aukcio_kliens\obj\Debug\aukcio_kliens.exe
+C:\Users\user\ksanyi\ie\aukcio_kliens\aukcio_kliens\obj\Debug\aukcio_kliens.pdb
+d:\!EKF\Interneteszkozei\2017\Aukcios\aukcio_kliens\aukcio_kliens\bin\Debug\aukcio_kliens.exe.config
+d:\!EKF\Interneteszkozei\2017\Aukcios\aukcio_kliens\aukcio_kliens\obj\Debug\aukcio_kliens.exe
+d:\!EKF\Interneteszkozei\2017\Aukcios\aukcio_kliens\aukcio_kliens\obj\Debug\aukcio_kliens.pdb
+d:\!EKF\Interneteszkozei\2017\Aukcios\aukcio_kliens\aukcio_kliens\bin\Debug\aukcio_kliens.exe
+d:\!EKF\Interneteszkozei\2017\Aukcios\aukcio_kliens\aukcio_kliens\bin\Debug\aukcio_kliens.pdb
+d:\!EKF\Interneteszkozei\2017\Aukcios\aukcio_kliens\aukcio_kliens\obj\Debug\aukcio_kliens.csprojResolveAssemblyReference.cache
+D:\Robi\SULI\Robi\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Aukcios - MEGY\Aukcios\aukcio_kliens\aukcio_kliens\bin\Debug\aukcio_kliens.exe.config
+D:\Robi\SULI\Robi\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Aukcios - MEGY\Aukcios\aukcio_kliens\aukcio_kliens\obj\Debug\aukcio_kliens.exe
+D:\Robi\SULI\Robi\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Aukcios - MEGY\Aukcios\aukcio_kliens\aukcio_kliens\obj\Debug\aukcio_kliens.pdb
+D:\Robi\SULI\Robi\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Aukcios - MEGY\Aukcios\aukcio_kliens\aukcio_kliens\bin\Debug\aukcio_kliens.exe
+D:\Robi\SULI\Robi\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Aukcios - MEGY\Aukcios\aukcio_kliens\aukcio_kliens\bin\Debug\aukcio_kliens.pdb
+D:\Robi\SULI\Robi\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Aukcios - MEGY\Aukcios\aukcio_kliens\aukcio_kliens\obj\Debug\aukcio_kliens.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\bin\Debug\TesztFiboClient.exe.config
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\bin\Debug\TesztFiboClient.exe
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\bin\Debug\TesztFiboClient.pdb
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\bin\Debug\Google.Protobuf.dll
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\bin\Debug\Grpc.Core.dll
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\bin\Debug\System.Interactive.Async.dll
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\bin\Debug\TesztFiboN.dll
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\bin\Debug\TesztFiboN.pdb
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\bin\Debug\Google.Protobuf.xml
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\bin\Debug\Grpc.Core.xml
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\bin\Debug\System.Interactive.Async.xml
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\obj\Debug\TesztFiboClient.csprojResolveAssemblyReference.cache
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\obj\Debug\TesztFiboClient.exe
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboClient\obj\Debug\TesztFiboClient.pdb

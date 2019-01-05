@@ -1,0 +1,11 @@
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboN\bin\Debug\TesztFiboN.dll
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboN\bin\Debug\TesztFiboN.pdb
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboN\bin\Debug\Google.Protobuf.dll
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboN\bin\Debug\Grpc.Core.dll
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboN\bin\Debug\System.Interactive.Async.dll
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboN\bin\Debug\Google.Protobuf.xml
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboN\bin\Debug\Grpc.Core.xml
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboN\bin\Debug\System.Interactive.Async.xml
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboN\obj\Debug\TesztFiboN.csprojResolveAssemblyReference.cache
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboN\obj\Debug\TesztFiboN.dll
+D:\!EKF\Interneteszkozei\GRPC_repo\grpc\examples\csharp\TesztFiboN\TesztFiboN\obj\Debug\TesztFiboN.pdb

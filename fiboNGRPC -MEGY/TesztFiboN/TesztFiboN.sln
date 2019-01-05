@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesztFiboN", "TesztFiboN\TesztFiboN.csproj", "{8BB3EBBA-E5B8-4AEF-A4C4-5F47595EC738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesztFiboServer", "TesztFiboServer\TesztFiboServer.csproj", "{CE60F923-84B9-46B0-BD47-EC9496DB51DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesztFiboClient", "TesztFiboClient\TesztFiboClient.csproj", "{AB705DD2-1A53-458C-81ED-FABDCCA82C78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB3EBBA-E5B8-4AEF-A4C4-5F47595EC738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB3EBBA-E5B8-4AEF-A4C4-5F47595EC738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB3EBBA-E5B8-4AEF-A4C4-5F47595EC738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB3EBBA-E5B8-4AEF-A4C4-5F47595EC738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE60F923-84B9-46B0-BD47-EC9496DB51DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE60F923-84B9-46B0-BD47-EC9496DB51DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE60F923-84B9-46B0-BD47-EC9496DB51DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE60F923-84B9-46B0-BD47-EC9496DB51DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB705DD2-1A53-458C-81ED-FABDCCA82C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB705DD2-1A53-458C-81ED-FABDCCA82C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB705DD2-1A53-458C-81ED-FABDCCA82C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB705DD2-1A53-458C-81ED-FABDCCA82C78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

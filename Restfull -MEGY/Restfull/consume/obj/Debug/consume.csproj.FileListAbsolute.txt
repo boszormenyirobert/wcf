@@ -1,0 +1,33 @@
+D:\!EKF\Interneteszkozei\REST\fogmenni\consume\bin\Debug\consume.exe.config
+D:\!EKF\Interneteszkozei\REST\fogmenni\consume\bin\Debug\consume.exe
+D:\!EKF\Interneteszkozei\REST\fogmenni\consume\bin\Debug\consume.pdb
+D:\!EKF\Interneteszkozei\REST\fogmenni\consume\bin\Debug\fogmenni.dll
+D:\!EKF\Interneteszkozei\REST\fogmenni\consume\bin\Debug\fogmenni.pdb
+D:\!EKF\Interneteszkozei\REST\fogmenni\consume\obj\Debug\consume.csprojResolveAssemblyReference.cache
+D:\!EKF\Interneteszkozei\REST\fogmenni\consume\obj\Debug\consume.Form1.resources
+D:\!EKF\Interneteszkozei\REST\fogmenni\consume\obj\Debug\consume.Properties.Resources.resources
+D:\!EKF\Interneteszkozei\REST\fogmenni\consume\obj\Debug\consume.csproj.GenerateResource.Cache
+D:\!EKF\Interneteszkozei\REST\fogmenni\consume\obj\Debug\consume.exe
+D:\!EKF\Interneteszkozei\REST\fogmenni\consume\obj\Debug\consume.pdb
+D:\!EKF\Interneteszkozei\REST\fogmenni!!!!\consume\bin\Debug\consume.exe.config
+D:\!EKF\Interneteszkozei\REST\fogmenni!!!!\consume\obj\Debug\consume.exe
+D:\!EKF\Interneteszkozei\REST\fogmenni!!!!\consume\obj\Debug\consume.pdb
+D:\!EKF\Interneteszkozei\REST\fogmenni!!!!\consume\bin\Debug\consume.exe
+D:\!EKF\Interneteszkozei\REST\fogmenni!!!!\consume\bin\Debug\consume.pdb
+D:\!EKF\Interneteszkozei\REST\fogmenni!!!!\consume\bin\Debug\fogmenni.dll
+D:\!EKF\Interneteszkozei\REST\fogmenni!!!!\consume\bin\Debug\fogmenni.pdb
+D:\!EKF\Interneteszkozei\REST\fogmenni!!!!\consume\obj\Debug\consume.csprojResolveAssemblyReference.cache
+D:\!EKF\Interneteszkozei\REST\fogmenni!!!!\consume\obj\Debug\consume.Form1.resources
+D:\!EKF\Interneteszkozei\REST\fogmenni!!!!\consume\obj\Debug\consume.Properties.Resources.resources
+D:\!EKF\Interneteszkozei\REST\fogmenni!!!!\consume\obj\Debug\consume.csproj.GenerateResource.Cache
+D:\Robi\SULI\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Restfull -MEGY\Restfull\consume\bin\Debug\consume.exe.config
+D:\Robi\SULI\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Restfull -MEGY\Restfull\consume\bin\Debug\consume.exe
+D:\Robi\SULI\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Restfull -MEGY\Restfull\consume\bin\Debug\consume.pdb
+D:\Robi\SULI\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Restfull -MEGY\Restfull\consume\bin\Debug\fogmenni.dll
+D:\Robi\SULI\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Restfull -MEGY\Restfull\consume\bin\Debug\fogmenni.pdb
+D:\Robi\SULI\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Restfull -MEGY\Restfull\consume\obj\Debug\consume.csprojResolveAssemblyReference.cache
+D:\Robi\SULI\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Restfull -MEGY\Restfull\consume\obj\Debug\consume.Form1.resources
+D:\Robi\SULI\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Restfull -MEGY\Restfull\consume\obj\Debug\consume.Properties.Resources.resources
+D:\Robi\SULI\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Restfull -MEGY\Restfull\consume\obj\Debug\consume.csproj.GenerateResource.Cache
+D:\Robi\SULI\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Restfull -MEGY\Restfull\consume\obj\Debug\consume.exe
+D:\Robi\SULI\suli VI\Az internet eszközei es szolgaltatasai EA+GY\Progik\TobbszaluProgramozas\Restfull -MEGY\Restfull\consume\obj\Debug\consume.pdb
